@@ -9,4 +9,8 @@ typedef struct SVector2 {
   int y;
 } Vector2;
 
+typedef struct SLabel {
+  // ...
+} Label;
+
 #endif
