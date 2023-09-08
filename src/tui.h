@@ -3,4 +3,6 @@
 
 int get_terminal_width();
 
+int get_terminal_height();
+
 #endif
