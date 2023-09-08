@@ -2,7 +2,11 @@
 #define _TUI_H_
 
 int get_terminal_width();
-
 int get_terminal_height();
+
+typedef struct SVector2 {
+  int x;
+  int y;
+} Vector2;
 
 #endif
